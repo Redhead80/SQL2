@@ -1,6 +1,6 @@
 ## Схема базы данных SQL 
 
-![](https://github.com/Redhead80/SQL2/main/blob/database_diagram.png) 
+![](https://github.com/Redhead80/SQL2/blob/22fc4a35a253cbf928d7a99acaacd399d6a9a848/database_diagram.png) 
 
 ## Код SQL для создания базы данных
 
